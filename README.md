@@ -1,5 +1,7 @@
 # anxlex — versão pública 0.1.0
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23672575.svg)](https://doi.org/10.5281/zenodo.23672575)
+
 Autores: Maria do Carmo Soares de Lima; Pollyanna Ximenes Oliveira Bezerra; Thyago Celso Cavalcanti Nepomuceno.
 Manutenção: Maria do Carmo Soares de Lima <maria@de.ufpe.br>.
 
@@ -39,3 +41,16 @@ Abra anxlex.Rproj. Execute source("data-raw/preparar_dados.R") na raiz
 do projeto para reconstruir as duas bases. Os CSVs de preparação estão
 no projeto editável e são excluídos do pacote instalável.
 Funções de classificação ainda não foram incorporadas.
+
+## Referência do lançamento
+
+Soares de Lima, M. do C., Oliveira Bezerra, P. X., & Nepomuceno, T. C. C. (2026).
+*anxlex: Léxico emocional para estudos sobre ansiedade* (0.1.0). Zenodo.
+https://doi.org/10.5281/zenodo.23672575
+
+## Verificação
+
+A versão 0.1.0 passou em R CMD check (sem manual PDF), com Status OK,
+e no teste de citação sem avisos em Linux no ambiente de CI.
+O aviso observado no ambiente local Windows foi reproduzido como uma falha
+na verificação de permissões de diretórios, sem falha na leitura dos dados.

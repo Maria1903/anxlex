@@ -3,6 +3,7 @@ message: "Ao usar este pacote, cite os autores e a versão utilizada."
 type: software
 title: "anxlex: Léxico emocional para estudos sobre ansiedade"
 version: 0.1.0
+doi: 10.5281/zenodo.23672575
 date-released: '2026-10-26'
 authors:
   - family-names: Soares de Lima
