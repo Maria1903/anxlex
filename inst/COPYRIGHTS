@@ -1,0 +1,20 @@
+Escopo das licenças — anxlex 0.0.2
+
+Código e documentação: MIT. Consulte LICENSE e LICENSE-MIT na fonte.
+Tabelas anxlex e modificadores, em data/*.rda e data-raw/*.csv:
+Creative Commons Atribuição 4.0 Internacional (CC BY 4.0).
+Essas tabelas são exceções à licença MIT geral do pacote; as licenças
+não são alternativas para os mesmos componentes.
+
+Autores: Maria do Carmo Soares de Lima; Pollyanna Ximenes Oliveira Bezerra; Thyago Celso Cavalcanti Nepomuceno.
+Copyright 2026. Material fornecido sem garantias.
+Licença dos dados: https://creativecommons.org/licenses/by/4.0/
+Texto jurídico: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Ao compartilhar os dados, preserve a atribuição, informe a licença e
+indique alterações conforme seus termos. Não sugira endosso dos autores.
+Referência sugerida: citation("anxlex"). Não há exigência de coautoria.
+
+O corpus real de publicações do X não integra esta versão. As licenças
+acima não concedem direitos sobre os textos desse corpus, que permanece
+separado, com condições de distribuição pendentes de avaliação.

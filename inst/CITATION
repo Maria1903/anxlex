@@ -1,0 +1,10 @@
+bibentry(
+  bibtype = "Manual",
+  title = "anxlex: Lexico emocional para estudos sobre ansiedade",
+  author = c(
+    person("Maria do Carmo", "Soares de Lima"),
+    person("Pollyanna Ximenes", "Oliveira Bezerra"),
+    person("Thyago Celso Cavalcanti", "Nepomuceno")),
+  year = "2026",
+  note = "Pacote R, versao 0.0.2. Dados: CC BY 4.0; codigo: MIT."
+)
