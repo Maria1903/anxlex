@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Ao usar este pacote, cite os autores e a versão utilizada."
+type: software
+title: "anxlex: Léxico emocional para estudos sobre ansiedade"
+version: 0.1.0
+date-released: '2026-10-26'
+authors:
+  - family-names: Soares de Lima
+    given-names: Maria do Carmo
+  - family-names: Oliveira Bezerra
+    given-names: Pollyanna Ximenes
+  - family-names: Nepomuceno
+    given-names: Thyago Celso Cavalcanti
+repository-code: 'https://github.com/Maria1903/anxlex'
+license: MIT
+abstract: >-
+  Pacote R com 587 associações termo-categoria emocional e 62 modificadores
+  linguísticos. Código e documentação sob MIT. As tabelas anxlex e
+  modificadores são licenciadas separadamente sob CC BY 4.0.
+  Não inclui o corpus de publicações do X.

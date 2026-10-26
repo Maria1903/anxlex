@@ -1,7 +1,7 @@
 Package: anxlex
 Type: Package
 Title: Lexico Emocional para Estudos sobre Ansiedade
-Version: 0.0.2
+Version: 0.1.0
 Authors@R: c(
     person("Maria do Carmo", "Soares de Lima", role = c("aut", "cre"),
            email = "maria@de.ufpe.br"),
@@ -17,3 +17,5 @@ Depends: R (>= 3.5.0)
 LazyData: true
 LazyDataCompression: xz
 NeedsCompilation: no
+URL: https://github.com/Maria1903/anxlex
+BugReports: https://github.com/Maria1903/anxlex/issues

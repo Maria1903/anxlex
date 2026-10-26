@@ -1,4 +1,4 @@
-# anxlex — versão pública 0.0.2
+# anxlex — versão pública 0.1.0
 
 Autores: Maria do Carmo Soares de Lima; Pollyanna Ximenes Oliveira Bezerra; Thyago Celso Cavalcanti Nepomuceno.
 Manutenção: Maria do Carmo Soares de Lima <maria@de.ufpe.br>.

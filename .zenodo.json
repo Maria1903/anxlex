@@ -1,0 +1,36 @@
+{
+  "title": "anxlex: Léxico emocional para estudos sobre ansiedade",
+  "upload_type": "software",
+  "version": "0.1.0",
+  "publication_date": "2026-10-26",
+  "creators": [
+    {
+      "name": "Soares de Lima, Maria do Carmo"
+    },
+    {
+      "name": "Oliveira Bezerra, Pollyanna Ximenes"
+    },
+    {
+      "name": "Nepomuceno, Thyago Celso Cavalcanti"
+    }
+  ],
+  "description": "<p>Pacote R com o léxico emocional AnxLex (587 associações termo-categoria em alegria, confiança, medo e tristeza) e uma tabela de 62 modificadores linguísticos (negadores, intensificadores e atenuadores).</p><p>Código e documentação sob MIT. As tabelas anxlex e modificadores, incluindo os CSVs de preparação, são licenciadas separadamente sob Creative Commons Atribuição 4.0 Internacional (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/. Consulte inst/COPYRIGHTS para os escopos das licenças. O corpus de publicações do X não está incluído.</p>",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "R",
+    "anxiety",
+    "ansiedade",
+    "lexicon",
+    "AnxLex",
+    "Portuguese",
+    "text analysis"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Maria1903/anxlex",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,2 +1,5 @@
 ^data-raw$
 ^anxlex\.Rproj$
+^\.github$
+^\.zenodo\.json$
+^CITATION\.cff$
