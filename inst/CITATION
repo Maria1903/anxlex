@@ -7,5 +7,6 @@ bibentry(
     person("Thyago Celso Cavalcanti", "Nepomuceno")),
   year = "2026",
   note = "Pacote R, versao 0.1.0. Dados: CC BY 4.0; codigo: MIT.",
+  doi = "10.5281/zenodo.23672575",
   url = "https://github.com/Maria1903/anxlex"
 )
