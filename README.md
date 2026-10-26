@@ -5,10 +5,11 @@ Manutenção: Maria do Carmo Soares de Lima <maria@de.ufpe.br>.
 
 ## Instalação
 
-No R/RStudio, selecione anxlex_0.0.2.tar.gz:
+Instale diretamente do GitHub no R/RStudio:
 
 ```r
-install.packages(file.choose(), repos = NULL, type = "source")
+install.packages("remotes") # apenas se ainda não estiver instalado
+remotes::install_github("Maria1903/anxlex")
 library(anxlex)
 data("anxlex")
 data("modificadores")
@@ -25,15 +26,12 @@ citation("anxlex")
 As licenças têm escopos distintos. Consulte inst/COPYRIGHTS.
 Os dados permitem reutilização e adaptação, inclusive comercial, com
 atribuição e indicação das alterações conforme CC BY 4.0.
-Não foi inventado DOI ou artigo para a referência bibliográfica.
+Para obter a referência bibliográfica desta versão, use `citation("anxlex")`.
 
 ## Corpus
 
-Esta versão pública não contém os 8928 textos reais do X nem cópias
-deles em CSV, arquivos de dados ou exemplos. O corpus permanece nos
-arquivos locais da versão 0.0.1 e da organização inicial, fora deste
-projeto público. Suas condições de distribuição continuam pendentes.
-Não confundir o pacote 0.0.1 anterior com esta distribuição pública.
+O corpus de publicações do X não integra este pacote público.
+As licenças do pacote não concedem direitos sobre esse corpus.
 
 ## Desenvolvimento
 
