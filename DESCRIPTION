@@ -1,0 +1,19 @@
+Package: anxlex
+Type: Package
+Title: Lexico Emocional para Estudos sobre Ansiedade
+Version: 0.0.2
+Authors@R: c(
+    person("Maria do Carmo", "Soares de Lima", role = c("aut", "cre"),
+           email = "maria@de.ufpe.br"),
+    person("Pollyanna Ximenes", "Oliveira Bezerra", role = "aut"),
+    person("Thyago Celso Cavalcanti", "Nepomuceno", role = "aut"))
+Description: Disponibiliza um lexico de termos e expressoes em quatro
+    categorias emocionais e uma tabela de modificadores linguisticos
+    para estudos sobre ansiedade. Documenta a origem e a preparacao
+    dos dados. Os dados sao licenciados sob CC BY 4.0 e o codigo sob MIT.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 3.5.0)
+LazyData: true
+LazyDataCompression: xz
+NeedsCompilation: no
