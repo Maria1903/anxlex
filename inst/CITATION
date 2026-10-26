@@ -6,5 +6,6 @@ bibentry(
     person("Pollyanna Ximenes", "Oliveira Bezerra"),
     person("Thyago Celso Cavalcanti", "Nepomuceno")),
   year = "2026",
-  note = "Pacote R, versao 0.0.2. Dados: CC BY 4.0; codigo: MIT."
+  note = "Pacote R, versao 0.1.0. Dados: CC BY 4.0; codigo: MIT.",
+  url = "https://github.com/Maria1903/anxlex"
 )

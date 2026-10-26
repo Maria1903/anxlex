@@ -29,7 +29,7 @@
   ],
   "fonte_lexico": "Classificacao por lexicos - Consolidado_revfinal_vale este.Rmd",
   "sha256_lexico_fonte": "7e538ae1ac0a113afcdfa408febb4fa4e9b765b54ed6dcfd1592ea84ce48ade8",
-  "versao_pacote": "0.0.2",
+  "versao_pacote": "0.1.0",
   "licenca_dados": "CC BY 4.0",
   "corpus_incluido": false
 }
